@@ -1,0 +1,19 @@
+Pizza Order
+===========
+Crust:
+ Deep-Dish
+Toppings:
+ Extra Cheese
+ Peppers
+Sides:
+ 6 Bread Sticks
+ 7 Buffalo Wings
+Deliver To:
+ rjr
+ 46u
+ 46u
+ 46u
+
+ NOTES: u565
+
+***END OF ORDER ***

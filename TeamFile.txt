@@ -1,0 +1,7 @@
+John Doe C 19.19 15.15 4.4
+Jack Spratt F 11.11 7.7 3.3
+Donald Duck G 13.13 4.4 6.6
+Bugs Bunny G 8.8 2.2 1.1
+Paul Bunyan C 5.5 1.1 2.2
+Pecos Bill G 9.9 3.3 6.6
+Rip van Winkle F 8.0 4.0 2.0
